@@ -248,9 +248,3 @@ site:target.com ext:env
 
 Reconnaissance berhasil dilakukan sesuai scope program.  
 Beberapa area berpotensi untuk diuji lebih lanjut pada tahap vulnerability assessment.
-
----
-
-# 🔒 Ethical Note
-
-All activities performed were within the allowed scope of the public bug bounty program and followed responsible disclosure guidelines.
